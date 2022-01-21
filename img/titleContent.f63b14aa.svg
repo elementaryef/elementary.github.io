@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="38" viewBox="0 0 250 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b2c42;
+      }
+
+      .cls-2 {
+        filter: url(#路径_13510);
+      }
+    </style>
+    <filter id="路径_13510" x="0" y="0" width="250" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="路径_13510-2" data-name="路径 13510" class="cls-1" d="M20.228,0H223.772C234.944,0,244,7.163,244,16s-9.056,16-20.228,16H20.228C9.056,32,0,24.837,0,16S9.056,0,20.228,0Z" transform="translate(3)"/>
+  </g>
+</svg>

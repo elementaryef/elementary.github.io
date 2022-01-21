@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93.373" height="92.545" viewBox="0 0 93.373 92.545">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.255;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        opacity: 0.774;
+      }
+
+      .cls-5 {
+        opacity: 0.996;
+      }
+
+      .cls-6 {
+        fill: #1d4a55;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.875" y1="0.779" x2="0.057" y2="0.345" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c6790e"/>
+      <stop offset="0.182" stop-color="#d09f00"/>
+      <stop offset="0.403" stop-color="#ffd516"/>
+      <stop offset="0.552" stop-color="#ffe94a"/>
+      <stop offset="0.688" stop-color="#f3d70d"/>
+      <stop offset="0.85" stop-color="#ffe000"/>
+      <stop offset="1" stop-color="#ffe760"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#21c181"/>
+      <stop offset="1" stop-color="#21c1a5"/>
+    </linearGradient>
+  </defs>
+  <g id="元能场_源文件_" data-name="元能场 (源文件)" class="cls-1" transform="translate(-263.449 -173.898)">
+    <g id="shape_g42bgK8Bds" transform="translate(263.449 173.898)">
+      <g id="组_65970" data-name="组 65970" transform="translate(0 0)">
+        <g id="图层_1">
+          <g id="组_65969" data-name="组 65969">
+            <circle id="椭圆_535" data-name="椭圆 535" class="cls-2" cx="46.272" cy="46.272" r="46.272"/>
+            <path id="路径_33105" data-name="路径 33105" class="cls-3" d="M119.739,34.529a48.3,48.3,0,0,0-3.771-7.349c1.741-4.787,1.547-8.413-.919-10.009-7.349-4.835-24.176-1.112-45.982,7.253a6.673,6.673,0,0,0-1.934,1.934c-1.015,1.789-.774,5.077-.774,5.077-.387-1.4-.532-2.708-2.031-3.433-1.644-.774-4.69.242-5.029.387.338-.145,3.191-1.547,4.11-3.53.967-2.127.435-6.624.435-6.624s1.112,4.158,2.708,5.077a4.325,4.325,0,0,0,2.949.1c24.514-10.444,44.1-17.213,52.365-8.026C125.445,19.395,124.381,26.358,119.739,34.529Z" transform="translate(-30.628 -5.711)"/>
+            <path id="路径_33106" data-name="路径 33106" class="cls-3" d="M70.282,146.913c-.145.048-2.466,1.16-3.191,2.708-.725,1.644-.338,5.077-.338,5.077s-.87-3.143-2.079-3.868a3.875,3.875,0,0,0-2.659.048c-24.756,10.492-44.58,17.407-52.9,8.171-3.143-3.481-2.708-9.283.58-16.149a47.222,47.222,0,0,0,4.593,6.866c-.822,3.53-.338,6.189,1.692,7.543,7.543,4.98,24.9.919,47.384-7.785a4.363,4.363,0,0,0,.919-1.015,8.459,8.459,0,0,0,.58-3.868c.29,1.064.435,2.079,1.547,2.611C67.72,147.832,70.137,146.962,70.282,146.913Z" transform="translate(-3.606 -73.806)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="shape_SjdNyJF7ar" class="cls-4" transform="translate(237.449 197.661)">
+      <g id="组_65973" data-name="组 65973" class="cls-5" transform="translate(45 0.237)">
+        <g id="组_65972" data-name="组 65972" transform="translate(0 0)">
+          <g id="组_65971" data-name="组 65971">
+            <path id="路径_33107" data-name="路径 33107" class="cls-6" d="M3.655-26.406,14.37-50H2.17v-6.38H56.355V-50H43.1v15.981a1.848,1.848,0,0,0,.554,1.359,1.858,1.858,0,0,0,1.365.56H56.418l-2.787,5.757H40.751a6.08,6.08,0,0,1-2.448-.5,6.254,6.254,0,0,1-1.982-1.328,6.447,6.447,0,0,1-1.334-1.95,5.924,5.924,0,0,1-.491-2.416h0V-50H23.411L12.7-26.406ZM4.271-64.49v-6.38H54.254v6.38Z" transform="translate(-2.17 70.87)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
